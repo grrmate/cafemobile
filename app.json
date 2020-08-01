@@ -1,0 +1,24 @@
+{
+  "name": "cafe",
+  "displayName": "cafe",
+  "expo": {
+    "name": "cafe",
+    "android": {
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3940256099942544~3347511713"
+      }
+    },
+    "ios": {
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3940256099942544~1458002511" 
+      }
+    },
+    "slug": "cafe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    
+    "description": ""
+  }
+}
